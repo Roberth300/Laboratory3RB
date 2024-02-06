@@ -1,0 +1,50 @@
+
+.prin{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+	min-width: 768px;
+	max-width: 1024px;
+    
+    p3{
+        font-size: 20px;
+        color:black; 
+        
+    }
+    p4{
+        font-size: 18px;
+        color:black; 
+        
+    }
+    p5{
+        font-size: 18px;
+        color:black; 
+        
+    }
+
+    p6{
+        font-size: 18px;
+        color:black; 
+        
+    }
+
+}
+
+
+
+.column{
+    font-family: Tahoma, Verdana, sans-serif;
+	color: #333;
+    padding: 10px;
+    width: 850px;
+    height: 700px;
+	
+}
+.column2{
+    font-family: Tahoma, Verdana, sans-serif;
+	color: #333;
+    width: 650px;
+    height: 400px;
+	
+}
+
